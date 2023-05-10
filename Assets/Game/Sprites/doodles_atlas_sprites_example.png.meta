@@ -1,0 +1,1545 @@
+fileFormatVersion: 2
+guid: 91c0e41c2cc0e9e4a85c577d87f9cfa0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1890
+        width: 155
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa588a966794d44d87bfd0ee0eb3be6
+      internalID: 1397059024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1883
+        width: 140
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb12cf2bc381a4d87e393a2b9c93e5
+      internalID: -1481118001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1887
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77117f21c5737b54c85aae96f1ad5ee5
+      internalID: 969177636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1883
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81889b99538c12748a3dae519922d668
+      internalID: 338982036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1896
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a357b352eb3b34aad4d7946d516027
+      internalID: 1972795802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1890
+        width: 228
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce152092c7aa1b6478a7d19cfc2e8a83
+      internalID: 826414100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_6
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1893
+        width: 158
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d20cb7b233bcd74086c5b18670d1ecb
+      internalID: -1447595463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1887
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c37d1b3ae05af43b1a2cd139437fa5
+      internalID: 385798068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_8
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1908
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7365bc61f58ac4480621172f807c59
+      internalID: 744236032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_9
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1897
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b8a739019ff3447b558d23b61005fc
+      internalID: 718662707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_10
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1908
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a60d12014e80147a3f161c2d386811
+      internalID: 2063212814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1549
+        width: 211
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43dd0334336d9a43ab23fceed3bc33a
+      internalID: -500783182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1549
+        width: 359
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c9a59534e8675499d44d2d3ec8536c
+      internalID: -446237470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1766
+        width: 277
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c0ea0cc43e3f419cb8e0e1edc791c
+      internalID: -1099835801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_14
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1727
+        width: 40
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f77b03ff2515b469dff5861e90505f
+      internalID: -829185579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_15
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1546
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe31d2ed1d5f714087f60b31b6dc56e
+      internalID: -271780770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1550
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e309023d862c60b4c878bfb5fa651278
+      internalID: 1364879517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_17
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1547
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceee16018d738a4e851a2e4a64e7f40
+      internalID: -1116976796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_18
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1560
+        width: 146
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79bd58c0144bcb4b94770ac715a1269
+      internalID: 1028064143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1395
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4bd7cd9fec4242b70122b812a07ab
+      internalID: -630345217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1389
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec6a472d5ee5d54a97796f098439770
+      internalID: -247663912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1394
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f9b50ac75e7140acc5ad1ab773762
+      internalID: 1833939660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1384
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf7d088ae5673488101bc2fd1d9cf5
+      internalID: 1901087418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_23
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1396
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7033f1e3eb135f445aa344ab5af9381f
+      internalID: 1728510865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_24
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1389
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec213bb8e81fef24da9910d461bdc19d
+      internalID: -1731664857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1211
+        width: 162
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39d7e395686a24ab3669e54d546dc5
+      internalID: 738130079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1207
+        width: 140
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db580a2d1c92c5e4d8b96df80c04c4b2
+      internalID: -2111096911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1211
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a18a0f496ab24abef2a58f54f5422
+      internalID: -1183721442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1207
+        width: 110
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cec1f75d81322488457a8204ee1847
+      internalID: 179589565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1220
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a473965b043b54280b6523a287bae4
+      internalID: -1484230573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_30
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1214
+        width: 228
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9cb6df18c05b347a4ae3e68bc491fc
+      internalID: 1640322245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_31
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1217
+        width: 158
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f21773d03c79d41bc6e8fbc6cfb53b
+      internalID: -1628884926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_32
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1212
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d7f59dd43b4a47a333fe6305dcd8e
+      internalID: 598531225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_33
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1232
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a42822fb53cd4193650cf1ccde5d6
+      internalID: -2113343040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_34
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1222
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957f1c3d9f0c11b4caa612c0fdf1dbce
+      internalID: 198128191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_35
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1233
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafeedae43fa5fc409cf9f376eb8b23e
+      internalID: -573542823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 873
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f4a3af1d9f7fa4ca947e71018c1c77
+      internalID: -1161460649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_37
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 867
+        width: 373
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a3da6c210f224e95a8cc44250a63f
+      internalID: -760368991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_38
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1090
+        width: 277
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a10033745c6e664b8043f655af309fb
+      internalID: -414839209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_39
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1051
+        width: 40
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65b401af68ce54daf39ce0f7c4e956
+      internalID: 1129442486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_40
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 870
+        width: 158
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdcffa5268f973428767c6ee85a6796
+      internalID: 106654360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_41
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 875
+        width: 127
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00efd7ba8ceef245b4665486b9df53b
+      internalID: -839762791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_42
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 872
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8970cbaec97949143bc145f326f7811b
+      internalID: -1912686375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_43
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 884
+        width: 146
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0869b00bca91d5349800ca8c1fa8f739
+      internalID: 302947136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 691
+        width: 162
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd486efb7b95533418a6c0851bf2c8fa
+      internalID: 1623692791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 687
+        width: 140
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8088082aaaf8de44ca7625a562aed711
+      internalID: 1585723608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 691
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3591545f96db371458eec754a05912e9
+      internalID: -1317396115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 687
+        width: 110
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea57a9e6dd8ae4ba8973ff6bf4edce
+      internalID: -1737386831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_48
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 700
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5824da4703073984b911710c740a67fb
+      internalID: -1785127127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_49
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 694
+        width: 228
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c38cb654704164fb3ce6544a2d9e0f
+      internalID: -1862532216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_50
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 697
+        width: 158
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f828af2ed057140999b22eb531a9af
+      internalID: -1962791848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_51
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 692
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d571280dc993f4a93bac122c88de3d
+      internalID: 512904697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_52
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 712
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36f2d8bf4ae4a4f97d74e99ec628f5
+      internalID: 1169383365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_53
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 702
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ba99d79832694b94cb06e5e2e1734
+      internalID: -923358650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_54
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 713
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca551d7ba47730641b7df33415e2e865
+      internalID: -778471086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f7ccd9142d7a4ca1281c875cbc9c1
+      internalID: -56066610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 347
+        width: 373
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f752925a04ad4fad5cc793915d04b
+      internalID: 1333753513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_57
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 570
+        width: 277
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5d3dd0e8187b42bce7f8e96deddf7
+      internalID: -306531018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_58
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 531
+        width: 40
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac29341750c8746a106de63986451f
+      internalID: -1043426842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_59
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 350
+        width: 158
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b864ee99226b479c69007c2ac7154
+      internalID: 1943846358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_60
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 355
+        width: 127
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e1ef2d9340b74486ed3a3a749fa6e
+      internalID: -589935673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_61
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 352
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c97cde83cf1c438e8c9cf4ec56369
+      internalID: -378742719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doodles_atlas_sprites_example_62
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 364
+        width: 146
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da292c8a99de37b4eaf05281e039b383
+      internalID: -1252809432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ca2e94df0ea35ed418ef1d7e85b96c41
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      doodles_atlas_sprites_example_47: -1737386831
+      doodles_atlas_sprites_example_8: 744236032
+      doodles_atlas_sprites_example_2: 969177636
+      doodles_atlas_sprites_example_26: -2111096911
+      doodles_atlas_sprites_example_56: 1333753513
+      doodles_atlas_sprites_example_7: 385798068
+      doodles_atlas_sprites_example_13: -1099835801
+      doodles_atlas_sprites_example_11: -500783182
+      doodles_atlas_sprites_example_25: 738130079
+      doodles_atlas_sprites_example_51: 512904697
+      doodles_atlas_sprites_example_34: 198128191
+      doodles_atlas_sprites_example_18: 1028064143
+      doodles_atlas_sprites_example_4: 1972795802
+      doodles_atlas_sprites_example_12: -446237470
+      doodles_atlas_sprites_example_24: -1731664857
+      doodles_atlas_sprites_example_23: 1728510865
+      doodles_atlas_sprites_example_5: 826414100
+      doodles_atlas_sprites_example_38: -414839209
+      doodles_atlas_sprites_example_16: 1364879517
+      doodles_atlas_sprites_example_37: -760368991
+      doodles_atlas_sprites_example_42: -1912686375
+      doodles_atlas_sprites_example_35: -573542823
+      doodles_atlas_sprites_example_40: 106654360
+      doodles_atlas_sprites_example_41: -839762791
+      doodles_atlas_sprites_example_59: 1943846358
+      doodles_atlas_sprites_example_45: 1585723608
+      doodles_atlas_sprites_example_6: -1447595463
+      doodles_atlas_sprites_example_21: 1833939660
+      doodles_atlas_sprites_example_39: 1129442486
+      doodles_atlas_sprites_example_48: -1785127127
+      doodles_atlas_sprites_example_60: -589935673
+      doodles_atlas_sprites_example_50: -1962791848
+      doodles_atlas_sprites_example_29: -1484230573
+      doodles_atlas_sprites_example_33: -2113343040
+      doodles_atlas_sprites_example_55: -56066610
+      doodles_atlas_sprites_example_30: 1640322245
+      doodles_atlas_sprites_example_52: 1169383365
+      doodles_atlas_sprites_example_46: -1317396115
+      doodles_atlas_sprites_example_19: -630345217
+      doodles_atlas_sprites_example_31: -1628884926
+      doodles_atlas_sprites_example_58: -1043426842
+      doodles_atlas_sprites_example_27: -1183721442
+      doodles_atlas_sprites_example_54: -778471086
+      doodles_atlas_sprites_example_49: -1862532216
+      doodles_atlas_sprites_example_20: -247663912
+      doodles_atlas_sprites_example_17: -1116976796
+      doodles_atlas_sprites_example_1: -1481118001
+      doodles_atlas_sprites_example_44: 1623692791
+      doodles_atlas_sprites_example_62: -1252809432
+      doodles_atlas_sprites_example_0: 1397059024
+      doodles_atlas_sprites_example_36: -1161460649
+      doodles_atlas_sprites_example_53: -923358650
+      doodles_atlas_sprites_example_57: -306531018
+      doodles_atlas_sprites_example_14: -829185579
+      doodles_atlas_sprites_example_28: 179589565
+      doodles_atlas_sprites_example_9: 718662707
+      doodles_atlas_sprites_example_22: 1901087418
+      doodles_atlas_sprites_example_32: 598531225
+      doodles_atlas_sprites_example_10: 2063212814
+      doodles_atlas_sprites_example_61: -378742719
+      doodles_atlas_sprites_example_43: 302947136
+      doodles_atlas_sprites_example_15: -271780770
+      doodles_atlas_sprites_example_3: 338982036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
